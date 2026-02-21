@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Take It to the Limit",
+  "base_artist": "Eagles",
+  "createdAt": "2026-02-21T03:03:03.641689Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take It To The Limit",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/01_Take_It_To_The_Limit_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take It to the Limit",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/02_Take_It_to_the_Limit_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take It to the Limit",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/03_Take_It_to_the_Limit_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take It To The Limit",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/04_Take_It_To_The_Limit_Eagles.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take It To The Limit",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/05_Take_It_To_The_Limit_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take It to the Limit (Remastered)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/06_Take_It_to_the_Limit_(Remastered)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take It to the Limit",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/07_Take_It_to_the_Limit_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take It to the Limit",
+      "artist": "Whitecross",
+      "has_synced": true,
+      "path": "select/08_Take_It_to_the_Limit_Whitecross.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take It to the Limit",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/pl_01_Take_It_to_the_Limit_Eagles.txt"
+    }
+  ]
+}
